@@ -1,0 +1,29 @@
+Fundamentos de algoritmos
+Tipologias e variáveis 
+Tipo numérico  inteiros (sem casa)
+Real possui casa decimal
+Tipo logico  Booleano, verdadeiro ou falso 
+Verdadeiro 1
+Falso 0
+Instruções primitivas
+Definição formal
+Instruções são linguagem de palavras-chave (vocabulário) de uma determinada de programação que tem por finalidade comandar um computador que irá tratar os dados
+Vetores e matrizes
+Vetor = uma sequencia de tipo de dados
+Caracterizado por uma variável dimensionada com tamanho pré fixado
+
+Funções
+Subalgoritmo, função, subprograma, bloco, método, sub-rotina
+As funções são blocos de instruções que realizam tarefas especificas (vem da ideia de decomposição de algoritmo, modulação do problema)
+Modularização do programa, código mais claro e conciso, reutilização de instruções.
+
+Instruções de entrada/saída
+Consiste na inserção e recebimento de dados do mundo real por meio de ação de alguma interface, seja teclado, mouse, arquivos, entre outros.
+Instruções de saída: Consiste na impressão dos dados do mundo abstrato, digital por meio de ação de alguma interface.
+Os formatos podem varias desde simples arquivos binários ate complexas querys de banco dos dados. 
+Existem 2 tipos de saída dentro do programa  saída programada (condicional, espera um dispositivo) e saída por interrupção
+
+Introdução à linguagens de programação 
+O que é uma linguagem de programação?
+Método padronizado composto por um conjunto de regras sintáticas e semânticas de implementação de um código fonte.
+Stakeholders  parte externa do time, no qual fica satisfeito com o sucesso do projeto, um cliente, usuário, investidor 
